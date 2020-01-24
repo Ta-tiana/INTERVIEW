@@ -1,0 +1,38 @@
+### Algorithms and data structures
+-    Big O notation: [short lecture](https://www.youtube.com/watch?v=ZRdOb4yR0kk)
+-    Data structures: [Big O](https://www.bigocheatsheet.com/)
+-    Patterns: [only first page](https://monsterlessons.com/project/categories/javascript)
+### Core JS
+-    hoisting: [what is hoisting?](https://medium.com/@stasonmars/%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D0%B5%D0%BC%D1%81%D1%8F-%D1%81-%D0%BF%D0%BE%D0%B4%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%D0%BC-hoisting-%D0%B2-javascript-7d2d27bc51f1)
+-    this/call/apply/bind:
+      - [this](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition-rus/#this)
+      - [how to find this from "Определяем this"](https://github.com/azat-io/you-dont-know-js-ru/blob/master/this%20%26%20object%20prototypes/ch2.md)
+       - [bind, call apply](https://medium.com/@stasonmars/%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%BE-%D0%BE-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0%D1%85-apply-call-%D0%B8-bind-%D0%BD%D0%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D1%8B%D1%85-%D0%BA%D0%B0%D0%B6%D0%B4%D0%BE%D0%BC%D1%83-javascript-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D1%83-ddd5f9b06290)
+-    scope and closures:
+      - [execution context](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition-rus/#kontekst-ispolneniya)
+      - [lexical environment](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition-rus/#leksicheskoe-okrujenie)
+      - [closure](https://learn.javascript.ru/closure)
+-    prototypal inheritance:
+      - [object](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition-rus/#obyekt)
+      - [prototype](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition-rus/#prototip)
+      - [rss lecture](https://www.youtube.com/watch?v=O462BetYst8)
+-    event loop:
+     - [Ivan toLoop](https://habr.com/ru/company/oleg-bunin/blog/417461/)
+     - [What is event loop?](https://habr.com/ru/post/461401/)
+-    promises:
+    - [about](https://learn.javascript.ru/promise-basics)
+    - [chain](https://learn.javascript.ru/promise-chaining)
+-    es6 features: [only arrow function, class, rest/spread, let/const, destructuring, promises](https://codetower.github.io/es6-features/)
+-    DOM events: [event intro](https://learn.javascript.ru/events)
+-    JS animations: [learn.js](https://learn.javascript.ru/js-animation)
+### HTML/CSS
+-    Rendering pipeline, reflow/repaint:
+     - [rendering-en](https://medium.com/@luisvieira_gmr/understanding-the-critical-rendering-path-rendering-pages-in-1-second-735c6e45b47a)
+     - [rendering-ru](https://habr.com/ru/post/320430/)
+     - [repaint, reflow](https://medium.com/darrja-%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BE/what-the-heck-is-repaint-and-reflow-in-the-browser-b2d0fb980c08)
+-    Semantics: [first ten tags](https://html5book.ru/html5-semantic-elements)
+-    Positions and floats:
+     - [positions](https://developer.mozilla.org/ru/docs/Web/CSS/position)
+     - [floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
+-    CSS animation: [learn.js](https://learn.javascript.ru/css-animations)
+-    Selectors specificity: [selectors weight](http://css.yoksel.ru/specifity/)
